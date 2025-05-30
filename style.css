@@ -1,0 +1,41 @@
+.box {
+    width: 120%;
+    height: 70px;
+    margin-top: -10px;
+    margin-left: -10%;
+    background-color: black;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+h1 {
+    text-align: center;
+    justify-content: center;
+}
+@font-face {
+    font-family: 'Montserrat';
+    src: url('/Montserrat-SemiBold.ttf') format('woff2');
+}
+body {
+    overflow: hidden;
+}
+.jk {
+    display: flex;
+}
+.mapps {
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    font-size: 30px;
+}
+a {
+    text-decoration: none;
+    color: #969696;
+    transition: color 0.1s ease;
+}
+a:hover {
+    color: #ffffff;
+}
