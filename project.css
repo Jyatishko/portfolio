@@ -1,26 +1,12 @@
 .box {
-    width: 120%;
-    height: 70px;
-    margin-top: -10px;
-    margin-left: -10%;
-    background-color: black;
-    color: white;
+    color: black;
+    height: 22px;
+    width: 100px;
     font-family: 'Montserrat', sans-serif;
-    font-size: 40px;
-    text-align: center;
-    justify-content: center;
-    display: flex;
-}
-h1 {
-    text-align: center;
-    justify-content: center;
 }
 @font-face {
     font-family: 'Montserrat';
     src: url('/Montserrat-SemiBold.ttf') format('woff2');
-}
-body {
-    overflow: hidden;
 }
 .mapps {
     justify-content: center;
